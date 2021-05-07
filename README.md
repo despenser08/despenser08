@@ -1,5 +1,5 @@
 <h1 align="center">Hello, ヾ(•ω•`)o</h1>
-<h3 align="center">I'm a lazy developer who likes to write code!</h3>
+<h3 align="center">I am a lazy person who likes to write code and wants to be a developer!</h3>
 
 ## Profile
 
