@@ -1,5 +1,7 @@
-<h1 align="center">Hello, ヾ(•ω•`)o</h1>
-<h3 align="center">I am a lazy person who likes to write code and wants to be a developer!</h3>
+<div align="center">
+
+<h1>Hello, ヾ(•ω•`)o</h1>
+<h3>I am a lazy person who likes to write code and wants to be a developer!</h3>
 
 ## Profile
 
@@ -8,11 +10,10 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/): despenser08#2706
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/despenser08)
-
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/despenser08)
 
 <details>
-  <p align="center">
+  <p>
     <img
       src="https://github-readme-stats.vercel.app/api?username=despenser08&count_private=true&show_icons=true&theme=tokyonight"
       alt="despenser08's GitHub stats"
@@ -74,3 +75,5 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
 </details>
+
+</div>
