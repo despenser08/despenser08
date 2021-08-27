@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hello, ヾ(•ω•`)o</h1>
-<h3>I am a lazy person who likes to write code and wants to be a developer!</h3>
+<h3>I am a lazy person who likes to write code and wants to be a programmer!</h3>
 
 ## Profile
 
